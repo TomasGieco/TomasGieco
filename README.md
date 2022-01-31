@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on PF - HenryHotel
 - 🌱 I’m currently learning **ANT Design, Sass and Figma**
 
-- 👨‍💻 My personal Portfolio is [Tomas Gieco Portfolio](https://tomasgieco-portfolio.vercel.app/)
+- 👨‍💻 My personal Portfolio is <a href="https://tomasgieco-portfolio.vercel.app/" target="blank">Tomas Gieco Portfolio</a>
 
 - 📫 How to reach me: **tomas.gieco@hotmail.com**
 
