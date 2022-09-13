@@ -6,8 +6,8 @@
 // Unless it doesn't work, then I have no idea who wrote it.
 ```
 
-- 🔭 I’m currently working on PF - HenryHotel
-- 🌱 I’m currently learning **ANT Design, Sass and Figma**
+- 🔭 I’m currently working on Eventick
+- 🌱 I’m currently working and learning more about **PHP and SQL**
 
 - 👨‍💻 My personal Portfolio is <a href="https://tomasgieco-portfolio.vercel.app/" target="blank">Tomas Gieco Portfolio</a>
 
